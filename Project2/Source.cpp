@@ -160,6 +160,7 @@ int main()
 	SubmaschineGun machinegun;
 	Knife knife;
 	Bazooka bazooka;
+	Bazooka bazooka2;
 
 	knife.Foo();
 
